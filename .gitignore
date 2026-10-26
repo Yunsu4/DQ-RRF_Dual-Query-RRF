@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.zip
+.env
+
+# Run outputs and the GPT compression cache
+ex/outputs/
+
+# Data is not included in the repository (see "Data preparation" in README.md)
+data/
